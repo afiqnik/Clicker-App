@@ -3,7 +3,7 @@
 
 Welcome to the Clicker App Project repository! 🚀
 
-This beginner-friendly web development project showcases the use of HTML, CSS, and JavaScript (especially object) to create a simple Clicker App where you can increment, decrement and reset the count.
+This beginner-friendly web development project showcases the use of HTML, CSS, and JavaScript (especially DOM) to create a simple Clicker App where you can increment, decrement and reset the count.
 
 
 ## Lessons Learned
