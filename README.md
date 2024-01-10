@@ -1,10 +1,9 @@
 
-# Clicker App Project
+# Clicker App
 
-Welcome to the Clicker App Project repository! 🚀
+Welcome to the Clicker App repository! 🚀
 
-This beginner-friendly web development project showcases the use of HTML, CSS, and JavaScript (especially DOM) to create a simple Clicker App where you can increment, decrement and reset the count.
-
+This beginner-friendly web development project completed with [**Sigma School**](https://www.linkedin.com/company/sigma-school/)! This project aims to provide practical examples for those learning HTML, CSS, and JavaScript, allowing the users to increment, decrement, and reset a counter.
 
 ## Lessons Learned
 
@@ -15,9 +14,7 @@ This beginner-friendly web development project showcases the use of HTML, CSS, a
 
 Check out the live version of the project: [Explore Clicker App](https://afiqnik.github.io/Clicker-App/)
 
-Feel free to contribute, share feedback, or use this project as a learning resource. Happy coding! 🌟
-
-![App Screenshot](https://private-user-images.githubusercontent.com/117086130/295240558-0ef9c797-559e-4006-b8d7-7abe60670b5d.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ4MTE3MTUsIm5iZiI6MTcwNDgxMTQxNSwicGF0aCI6Ii8xMTcwODYxMzAvMjk1MjQwNTU4LTBlZjljNzk3LTU1OWUtNDAwNi1iOGQ3LTdhYmU2MDY3MGI1ZC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwOVQxNDQzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjYxYWQyOTY2MmQ3NmU2OGUyYzUzZmEwZDljY2VjMmRkZGQ5OGU3OWM0NmU1NmU1OWY4NTA0NTMzZmFiYWIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dx9VVnq1NDeyJu_DINmqi4EVv5B_lpKfMqXDUBPnOXU)
+![App Screenshot](https://private-user-images.githubusercontent.com/117086130/295663154-3308f1fa-3ea7-491b-8f0e-9108acfe56a0.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5MTA0NTIsIm5iZiI6MTcwNDkxMDE1MiwicGF0aCI6Ii8xMTcwODYxMzAvMjk1NjYzMTU0LTMzMDhmMWZhLTNlYTctNDkxYi04ZjBlLTkxMDhhY2ZlNTZhMC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMFQxODA5MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OThhNWJiN2E5NWYxOGU2ZWIxNDI5MzJlZTE3ZGE3MjQxY2E2M2ZhYjI0YmMzNzMyZjJiYWFiN2NhZjVlZTJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.tOaKaft6dkXwhD0SACkc4ymkjOyQb0q910iUni3Vobk)
 
 
 ## Getting Started
@@ -34,7 +31,9 @@ Feel free to contribute, share feedback, or use this project as a learning resou
 3. Explore the functionalities of the Clicker App and start experimenting!
 ## Feedback
 
-If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/nik-muhammad-afiq/).
+Feel free to contribute, share feedback, or use this project as a learning resource. Happy coding! 🌟
+
+You can reach out to me at [LinkedIn](https://www.linkedin.com/in/nik-muhammad-afiq/).
 
 
 ## License
